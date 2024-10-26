@@ -1,6 +1,6 @@
-### DINESH R
+### NAME: DINESH R
 
-### 24900440
+### REG NO: 24900440
 
 # EXPERIMENT  1      Led control using Arduino
 
