@@ -70,13 +70,13 @@ Weighing Machines </br>
 LED OFF:
 
 
-<img src="https://github.com/user-attachments/assets/aafef474-0bc4-4995-a182-f55a535f22a1" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/e9018662-ea7f-4fb1-ba29-e27abd2c7668" width="300" height="300"  />
 
 
 LED ON:
 
 
-<img src="https://github.com/user-attachments/assets/d6091d58-9088-4d44-a180-9761c2d9899f" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/9cc8d61b-86e0-4e59-bc30-83b3ef2c24ec" width="300" height="300"  />
 
 ## RESULT
 The project successfully achieved its objective of creating a simple yet effective LED control system using an Arduino and a push button
